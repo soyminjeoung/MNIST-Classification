@@ -60,9 +60,9 @@ Visualizations include training/validation accuracy plots and confusion matrix o
 You can run the notebook directly in **[Google Colab](https://colab.research.google.com/)** or locally:
 
 1. Clone the repo  
-   `git clone https://github.com/yourusername/mnist-dnn-hyperparameter.git`
+   `git clone https://github.com/yourusername/MNST-Classification.git`
 
-2. Open `mnist_dnn.ipynb` in Jupyter or Colab
+2. Open `DNN_MNST_Classification.ipynb` in Jupyter or Colab
 
 3. Run all cells to train the model
 
